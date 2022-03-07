@@ -1,4 +1,4 @@
-# Tensorflow Object Detection Walkthrough
+# Tensorflow Object Detection 
 
 ## Steps
 <br />
